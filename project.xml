@@ -4,7 +4,7 @@
         <version>2.0.0.0</version>
         <url>https://raw.githubusercontent.com/Hamn2214/TestApp/master/TestApp.exe</url>
         <fileName>TestApp.exe</fileName>
-        <md5>E1BF4801EA4FF7F58BA7477274904D09</md5>
+        <md5>8F4060CB6BAD841EE60BE7D4CC8680DC</md5>
         <description>Update: 06/19/2014:
         1. Added notification message when the current version is already the latest.</description>
         <launchArgs></launchArgs>
