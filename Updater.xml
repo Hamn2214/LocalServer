@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Updater>
 	<Program name="scriptplacer++">
-		<Update ver="2.0.1.0" name="https://raw.githubusercontent.com/Hamn2214/TestApp/master/DeleteandOpenApp.exe" hash="16634A3724002BADF2DBF46D43833EC51C0CA309">
+		<Update ver="2.0.1.0" name="UGX Script Placer 2.0.1.exe" link="https://raw.githubusercontent.com/Hamn2214/TestApp/master/DeleteandOpenApp.exe" hash="16634A3724002BADF2DBF46D43833EC51C0CA309">
 			<Description>
 			- Corrected easyFX + UGX-MOD 400FX crash
 			- Added worldspawn settings to setup map
