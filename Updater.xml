@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updater>
+	<Program name="scriptplacer">
+		<Update ver="1.2.0.1" name="UGX Script Placer v1.1.exe" link="http://ugx-mods.com/downloads/scriptplacer/UGX%20Script%20Placer%20v1.1.4.exe" hash="8AFA4CB02F33239EE2C5A18397935EDF891A5CB9">
+			<Description>
+				- Fixed Issue.
+				- Bryan reverted v1.0.4 - More singing
+			</Description>
+		</Update>
+		<Update ver="1.1.0.1" name="UGX Script Placer v1.1.exe" link="http://ugx-mods.com/downloads/scriptplacer/UGX%20Script%20Placer%20v1.1.4.exe" hash="8AFA4CB02F33239EE2C5A18397935EDF891A5CB9">
+			<Description>
+				- Fixed Issue.
+				- Bryan reverted v1.0.4 - More singing
+			</Description>
+		</Update>
+		<Update ver="1.0.2.0" name="UGX Script Placer v1.1.exe" link="http://ugx-mods.com/downloads/scriptplacer/UGX%20Script%20Placer%20v1.1.4.exe" hash="0fd2bb48232204ed95acf82d5677f210">
+			<Description>
+				- Fixed Issue.
+			</Description>
+		</Update>
+		<Update ver="1.0.1.0" name="UGX Script Placer v1.1.exe" link="http://ugx-mods.com/downloads/scriptplacer/UGX%20Script%20Placer%20v1.1.4.exe" hash="0fd2bb48232204ed95acf82d5677f210">
+			<Description>
+				- Fixed Issue.
+			</Description>
+		</Update>
+	</Program>
+	<Program name="scriptplacer++">
+		<Update ver="2.0.1.0" name="UGX Script Placer 2.0.1.exe" link="http://ugx-mods.com/downloads/scriptplacer/UGX%20Script%20Placer%202.0.1.exe" hash="3E8E9B6D3E061F490B8AD399AEC654B37C440E52">
+			<Description>
+			- Corrected easyFX + UGX-MOD 400FX crash
+			- Added worldspawn settings to setup map
+			- Added Auto check for custom items added to IWD list
+			- Disabled the ability to select any file type in the screens section(caused infinite loop)
+			</Description>
+		</Update>
+		<Update ver="2.0.0.0" name="UGX Script Placer 2.0.exe" link="http://ugx-mods.com/downloads/scriptplacer/UGX%20Script%20Placer%202.0.exe" hash="59520EFCC80262E9A99686D684F4288DCC318309">
+			<Description>
+			- Initial Release
+			</Description>
+		</Update>
+		<Update ver="1.0.0.8" name="UGX Script Placer v1.0.0.8.exe" link="http://ugx-mods.com/downloads/scriptplacer/UGX%20Script%20Placer++v1.0.0.8.exe" hash="7AC57ACABCEDA7EF9C5CE84AAA290F2786EC7CEF">
+			<Description>
+			-Fixed ZIP exceptions
+			- Added better cancelation
+			</Description>
+		</Update>
+		<Update ver="1.0.0.7" name="UGX Script Placer v1.0.0.7.zip" link="http://www.sajeone.com/downloads/UGX%20Script%20Placer%20v1.0.0.7.zip" hash="E52481C0CCE9FEE5260E82F5891FEA3ACFD48891">
+			<Description>
+			- Added text change to generate button
+			- Added UGX Modtools Patch support
+			- Made FX count improvements
+			- Loadout GSC file optimized
+			</Description>
+		</Update>
+		<Update ver="1.0.0.6" name="UGX Script Placer v1.0.0.6.exe" link="http://download944.mediafire.com/2v4pruvgncbg/flshraer4kazk67/UGX+Script+Placer%2B%2Bv1.0.0.6.exe" hash="C8ABF7B9A9F9CDF3D6DE648E28DB90224D19CB34">
+			<Description>
+			- Fixed menu bug with main menu checkbox
+			- Added recomended text updates
+			- Fixed offline main thread stall due to auto updater
+			- Added .ZIP support to auto updater
+			</Description>
+		</Update>
+		<Update ver="1.0.0.5" name="UGX Script Placer v1.0.0.5.exe" link="http://download843.mediafire.com/cor6bozr3ktg/9br9364g26pf1s4/UGX+Script+Placer%2B%2Bv1.0.0.5.exe" hash="51E1D1A934841FBE15A716CE9FE886062D425D46">
+			<Description>
+			- Added support for main/load/mission screens
+			</Description>
+		</Update>
+		<Update ver="1.0.0.4" name="UGX Script Placer v1.0.0.4.exe" link="http://download1081.mediafire.com/c8yuvxbwegtg/wmxq57x9b9n9bbv/UGX+Script+Placer%2B%2Bv1.0.0.4.exe" hash="BDE5A5A05C5302BC18E23253112814F3EFA14E6F">
+			<Description>
+			- Created simplistic mode
+			- Vision options are now functional
+			- Added todo list under Help>About to show what is functional and what is not
+			- Included UGX Easy FX
+			</Description>
+		</Update>
+		<Update ver="1.0.0.3" name="UGX Script Placer v1.0.0.3.exe" link="http://download944.mediafire.com/358t8w28k11g/g5guzyikg961nff/UGX+Script+Placer%2B%2Bv1.0.0.3.exe" hash="23908FE5A1A49CA3DA64EE6848566A2CC3124C83">
+			<Description>
+			- custom weather FX isn't required to be inside the user's raw/fx
+			- Included log file support
+			- Added console disable option for both stock and UGX-MOD
+			- Modified overwrite screen for less clutter
+			</Description>
+		</Update>
+		<Update ver="1.0.0.2" name="UGX Script Placer v1.0.0.2.exe" link="http://download1651.mediafire.com/ngmt9vgi0wtg/5d3hhjg4ozf9cz5/UGX+Script+Placer%2B%2Bv1.0.0.2.exe" hash="EAB22A4014706B7209B0A2ADFF28BC78946B20CF">
+			<Description>
+			- Added hash checksum for downloaded mod resource
+			</Description>
+		</Update>
+		<Update ver="1.0.0.0" name="UGX Script Placer v2.0.exe" link="http://www.ugx-mods.com/downloads/scriptplacer/UGX%20Script%20Placer%20v1.1.4.exe" hash="0fd2bb48232204ed95acf82d5677f210">
+			<Description>
+			- v1.0 Initial Release
+			</Description>
+		</Update>
+	</Program>
+</Updater>
