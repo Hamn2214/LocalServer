@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updater>
+	<Program name="Example">
+		<Update ver="2.0.0.0" name="DaOA v2.0.0.0.exe" link="https://raw.githubusercontent.com/Hamn2214/TestApp/master/DaOA v2.0.0.0.exe" hash="059CD1463D1FC7117DFBCE45A24B4E89EA97B147">
+			<Description>
+			-Update: 14/05/2019
+			-This is the latest version available.
+			</Description>
+		</Update>
+		<Update ver="1.0.0.0" name="DaOA v1.0.0.0exe" link="https://raw.githubusercontent.com/Hamn2214/TestApp/master/DaOA v1.0.0.0.exe" hash="494C6EF67FF49AA53D3807AB572B9E7200FC5B41">
+			<Description>
+			- Initial Release
+			</Description>
+		</Update>		
+	</Program>
+</Updater>
