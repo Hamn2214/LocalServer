@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Updater>
-	<Program name="scriptplacer">
+	<Program name="DeleteandOpenApp">
 		<Update ver="2.0.0.0" name="DeleteandOpenApp.exe" link="https://raw.githubusercontent.com/Hamn2214/TestApp/master/DeleteandOpenApp.exe" hash="12D0337DCE299D5F9F5BA32B0F78F966">
 			<Description> This is the latest version available.</Description>
 		</Update>
