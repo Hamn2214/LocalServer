@@ -1,20 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update> 
-        <version>1.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/Hamn2214/LocalServer/master/AutoUpdaterXML/App/v1.0.0.0/AutoUpdaterXML%20v1.0.exe</url> 
-        <filePath>./AutoUpdaterXML.exe</filePath>
-        <md5>AD0E524C29E8CB3D77FE7725F178D3D9</md5>
-		<description> Initial Release </description> 
-        <launchArgs></launchArgs> 
-    </update>    
 	<update> 
-        <version>1.1.0.0</version> 
-        <url>https://raw.githubusercontent.com/Hamn2214/LocalServer/master/AutoUpdaterXML/App/v1.1.0.0/AutoUpdaterXML%20v1.1.exe</url> 
-        <filePath>./AutoUpdaterXML v1.1.exe</filePath>
-        <md5>F632518C1D12058EF18CFE1422742D1C</md5>
-        <description> Update: 26/01/2021: 
-		Fixed Issue </description> 
-        <launchArgs></launchArgs> 
-    </update>
+		<version>1.1.0.0</version> 
+		<url>https://raw.githubusercontent.com/Hamn2214/LocalServer/master/AutoUpdaterXML/App/v1.1.0.0/AutoUpdaterXML%20v1.1.exe</url> 
+		<filePath>./AutoUpdaterXML v1.1.exe</filePath>
+		<md5>F632518C1D12058EF18CFE1422742D1C</md5>
+		<description> Update: 26/01/2021: 
+			Fixed Issue </description> 
+		<launchArgs></launchArgs> 
+	</update>
 </sharpUpdate>
