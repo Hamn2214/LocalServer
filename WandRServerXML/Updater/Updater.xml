@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <Updater>
-	<Program name="scriptplacer++">
+	<Program name="hamn2214">
 		<Update ver="1.0.0.0" name="WandRServerXML 1.0.exe" link="https://github.com/Hamn2214/LocalServer/blob/master/WandRServerXML/App/v1.0.0.0/WandRServerXML%201.0.exe" hash="47BA082A50F5CD5E13F03C57631F9CDABB6C8480">
 			<Description> Initial Release </Description>
 		</Update>
 	</Program>
-	<Program name="scriptplacer++">
+	<Program name="hamn2214">
 		<Update ver="1.1.0.0" name="WandRServerXML 1.1.exe" link="https://github.com/Hamn2214/LocalServer/blob/master/WandRServerXML/App/v1.1.0.0/WandRServerXML%201.1.exe" hash="5D6925B6D9AF99FBB4068D29D75BB1EBB4FD4973">
 			<Description> Fixed Issue </Description>
 		</Update>
