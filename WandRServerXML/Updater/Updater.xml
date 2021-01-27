@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <Updater>
 	<Program name="hamn2214">
-		<Update ver="1.0.0.0" name="WandRServerXML 1.0.exe" link="https://github.com/Hamn2214/LocalServer/blob/master/WandRServerXML/App/v1.0.0.0/WandRServerXML%201.0.exe" hash="47BA082A50F5CD5E13F03C57631F9CDABB6C8480">
+		<Update ver="1.0.0.0" name="WandRServerXML 1.0.exe" link="https://raw.githubusercontent.com/Hamn2214/LocalServer/master/WandRServerXML/App/v1.0.0.0/WandRServerXML%20v1.0.exe" hash="61201BBD2B215011089E76A3FDF6DF3D6870A9A7">
 			<Description> Initial Release </Description>
 		</Update>
 	</Program>
 	<Program name="hamn2214">
-		<Update ver="1.1.0.0" name="WandRServerXML v1.1.exe" link="https://raw.githubusercontent.com/Hamn2214/LocalServer/master/WandRServerXML%20v1.1.exe" hash="0BDAFFA928CE592CD86B7A106459525A995E4405">
+		<Update ver="1.1.0.0" name="WandRServerXML v1.1.exe" link="https://raw.githubusercontent.com/Hamn2214/LocalServer/master/WandRServerXML/App/v1.1.0.0/WandRServerXML%20v1.1.exe" hash="0BDAFFA928CE592CD86B7A106459525A995E4405">
 			<Description> Fixed Issue </Description>
 		</Update>
 	</Program>
