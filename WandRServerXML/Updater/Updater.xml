@@ -6,7 +6,7 @@
 		</Update>
 	</Program>
 	<Program name="hamn2214">
-		<Update ver="1.1.0.0" name="WandRServerXML 1.1.exe" link="https://github.com/Hamn2214/LocalServer/blob/master/WandRServerXML/App/v1.1.0.0/WandRServerXML%201.1.exe" hash="5D6925B6D9AF99FBB4068D29D75BB1EBB4FD4973">
+		<Update ver="1.1.0.0" name="WandRServerXML v1.1.exe" link="https://github.com/Hamn2214/LocalServer/blob/master/WandRServerXML/App/v1.1.0.0/WandRServerXML%20v1.1.exe" hash="0BDAFFA928CE592CD86B7A106459525A995E4405">
 			<Description> Fixed Issue </Description>
 		</Update>
 	</Program>
