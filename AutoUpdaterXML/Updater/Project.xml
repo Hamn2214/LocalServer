@@ -3,7 +3,7 @@
     <update> 
         <version>1.0.0.0</version> 
         <url>https://raw.githubusercontent.com/Hamn2214/LocalServer/master/AutoUpdaterXML/App/v1.0.0.0/AutoUpdaterXML%20v1.0.exe</url> 
-        <filePath>./AutoUpdaterXML v1.0.exe</filePath>
+        <filePath>./AutoUpdaterXML.exe</filePath>
         <md5>AD0E524C29E8CB3D77FE7725F178D3D9</md5>
 		<description> Initial Release </description> 
         <launchArgs></launchArgs> 
