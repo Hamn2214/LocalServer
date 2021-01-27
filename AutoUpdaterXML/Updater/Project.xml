@@ -3,7 +3,7 @@
 	<update> 
 		<version>1.1.0.0</version> 
 		<url>https://raw.githubusercontent.com/Hamn2214/LocalServer/master/AutoUpdaterXML/App/v1.1.0.0/AutoUpdaterXML%20v1.1.exe</url> 
-		<filePath>./AutoUpdaterXML v1.1.exe</filePath>
+		<filePath>./AutoUpdaterXML.exe</filePath>
 		<md5>F632518C1D12058EF18CFE1422742D1C</md5>
 		<description> Update: 26/01/2021: 
 			Fixed Issue </description> 
