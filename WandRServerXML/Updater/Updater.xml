@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Updater>
+	<Program name="scriptplacer++">
+		<Update ver="1.0.0.0" name="WandRServerXML 1.0.exe" link="http://www.ugx-mods.com/downloads/scriptplacer/UGX%20Script%20Placer%20v1.1.4.exe" hash="47BA082A50F5CD5E13F03C57631F9CDABB6C8480">
+			<Description> Initial Release </Description>
+		</Update>
+	</Program>
+	<Program name="scriptplacer++">
+		<Update ver="1.1.0.0" name="WandRServerXML 1.1.exe" link="http://www.ugx-mods.com/downloads/scriptplacer/UGX%20Script%20Placer%20v1.1.4.exe" hash="5D6925B6D9AF99FBB4068D29D75BB1EBB4FD4973">
+			<Description> Fixed Issue </Description>
+		</Update>
+	</Program>
+</Updater>
